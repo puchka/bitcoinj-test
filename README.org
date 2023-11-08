@@ -1,0 +1,5 @@
+#+AUTHOR: marius@cicadalabs.io
+#+DESCRIPTION: Testing of HDW implementation and address encoding in bitcoinj
+
+Code snippet from the gist: https://gist.github.com/mutatrum/48af22c0f63cc1cc7d24d82a9d67e5e3
+
